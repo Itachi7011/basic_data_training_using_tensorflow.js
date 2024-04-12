@@ -6,6 +6,7 @@ function setup() {
     inputShape: [3],
     activation: "sigmoid",
   };
+  
   const configOutput = {
     units: 3,
     activation: "sigmoid",
